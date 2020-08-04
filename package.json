@@ -1,0 +1,13 @@
+{
+  "name": "@tutkun/prettier-config",
+  "version": "1.0.0",
+  "description": "My personal Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:tutkun/prettier-config.git",
+  "author": {
+    "name": "Samet Tutkun",
+    "url": "https://tutkuns.com"
+  },
+  "contributors": [],
+  "license": "MIT"
+}
